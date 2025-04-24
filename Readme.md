@@ -28,8 +28,7 @@ microservices_project/
 │   └── .env
 └── frontend/
     ├── customer/
-    │   ├── index.html
-    │   └── order.html
+    │   ├── customerdashboard.html
     └── admin/
         └── dashboard.html
 ```
